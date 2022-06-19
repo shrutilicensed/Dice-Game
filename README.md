@@ -1,4 +1,9 @@
 # Pig-Game
-A two-player dice game where the score sums the number we roll on the dice, unless if we roll a “one”, the score will become zero and players will be switched. Hold onto your score to prevent that and reach 100 faster than your opponent!
+
+Rules:
+-You have to roll the dice, the number you get will be added to your "current score". 
+-If you roll a "1", your current score will become zero and it will be your opponent's turn. 
+-"Hold your score" to save it to total score but then the next turn would go to the opponent. 
+- Whoever scores 100 first wins
 
 hosted at: https://pig-game-shruti.netlify.app/
